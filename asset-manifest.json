@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/food-delivery-app/static/css/main.a2802c63.css",
+    "main.js": "/food-delivery-app/static/js/main.4e6b7f14.js",
+    "static/media/chicken.jpg": "/food-delivery-app/static/media/chicken.e844dc18e1e57a244627.jpg",
+    "static/media/burger.jpg": "/food-delivery-app/static/media/burger.63d166a948df3a2602eb.jpg",
+    "static/media/hero.jpg": "/food-delivery-app/static/media/hero.1c51e052c23df1efe014.jpg",
+    "static/media/craft1.jpg": "/food-delivery-app/static/media/craft1.5ad4b08ddc73161b1fb8.jpg",
+    "static/media/craft2.jpg": "/food-delivery-app/static/media/craft2.79cdd5f8404d0372c671.jpg",
+    "static/media/footer.jpg": "/food-delivery-app/static/media/footer.f114a2e411245f1a141a.jpg",
+    "index.html": "/food-delivery-app/index.html",
+    "main.a2802c63.css.map": "/food-delivery-app/static/css/main.a2802c63.css.map",
+    "main.4e6b7f14.js.map": "/food-delivery-app/static/js/main.4e6b7f14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2802c63.css",
+    "static/js/main.4e6b7f14.js"
+  ]
+}
